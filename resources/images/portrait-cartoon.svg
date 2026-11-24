@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Cartoon portrait of Dibia">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9db0b4"/><stop offset="1" stop-color="#6f858c"/></linearGradient>
+<linearGradient id="sk" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7a452b"/><stop offset="1" stop-color="#5a301c"/></linearGradient>
+</defs>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<path d="M560 0V1000" stroke="#5f757c" stroke-width="5" opacity=".5"/>
+<path d="M0 400H800" stroke="#5f757c" stroke-width="5" opacity=".4"/>
+<rect x="0" y="0" width="70" height="1000" fill="#7d9298"/><rect x="62" y="0" width="10" height="1000" fill="#1c2427"/>
+<!-- shirt -->
+<path d="M0 1000V800Q15 715 200 675L330 650H470L600 685Q785 725 800 820V1000Z" fill="#f4f2ed" stroke="#2a160c" stroke-width="5" stroke-linejoin="round"/>
+<path d="M60 790Q130 880 120 1000H0V830Q20 800 60 790Z" fill="#e0ddd5"/>
+<path d="M610 700Q700 760 730 1000H800V820Q780 740 610 700Z" fill="#e6e3db"/>
+<path d="M590 780Q560 860 575 960" stroke="#cfcac0" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M200 800Q170 880 190 980" stroke="#cfcac0" stroke-width="5" fill="none" stroke-linecap="round"/>
+<!-- neck -->
+<path d="M310 500V690Q400 730 490 690V500Z" fill="#4e2a19" stroke="#2a160c" stroke-width="5"/>
+<!-- tie -->
+<path d="M368 735L432 735L455 960L400 995L345 960Z" fill="#231d1d" stroke="#0f0b0b" stroke-width="4" stroke-linejoin="round"/>
+<g stroke="#cdd5cd" stroke-width="5" stroke-linecap="round"><path d="M356 840L444 800"/><path d="M350 900L450 860"/><path d="M348 950L452 912"/></g>
+<g fill="#b78a63"><circle cx="395" cy="790" r="6"/><circle cx="410" cy="850" r="6"/><circle cx="392" cy="905" r="6"/></g>
+<path d="M372 692H428L436 738H364Z" fill="#2c2424" stroke="#0f0b0b" stroke-width="4" stroke-linejoin="round"/>
+<!-- collar -->
+<path d="M302 640L262 748L372 706L392 662Z" fill="#fbfaf7" stroke="#2a160c" stroke-width="5" stroke-linejoin="round"/>
+<path d="M498 640L538 740L428 706L408 662Z" fill="#fbfaf7" stroke="#2a160c" stroke-width="5" stroke-linejoin="round"/>
+<!-- ears -->
+<ellipse cx="238" cy="405" rx="24" ry="46" fill="#6a3a24" stroke="#2a160c" stroke-width="5"/>
+<ellipse cx="562" cy="405" rx="24" ry="46" fill="#6a3a24" stroke="#2a160c" stroke-width="5"/>
+<!-- head -->
+<path d="M242 330Q240 190 400 178Q560 190 558 330V430Q552 560 470 592Q400 612 330 592Q248 560 242 430Z" fill="url(#sk)" stroke="#2a160c" stroke-width="5" stroke-linejoin="round"/>
+<path d="M242 340V430Q248 560 330 592Q290 520 290 420Q285 360 242 340Z" fill="#3d200f" opacity=".35"/>
+<!-- hair -->
+<path d="M244 335Q232 190 400 168Q568 190 556 335Q545 262 400 240Q255 262 244 335Z" fill="#14100e" stroke="#0a0706" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="455" cy="268" rx="62" ry="22" fill="#a2694a" opacity=".55"/>
+<!-- brows -->
+<path d="M288 350Q330 322 378 342" stroke="#14100e" stroke-width="15" fill="none" stroke-linecap="round"/>
+<path d="M422 342Q470 322 512 350" stroke="#14100e" stroke-width="15" fill="none" stroke-linecap="round"/>
+<!-- eyes -->
+<g stroke="#14100e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M302 386Q337 372 372 386Q337 400 302 386Z" fill="#f1e6dc"/><circle cx="340" cy="386" r="8" fill="#1b1210" stroke="none"/>
+<path d="M428 386Q463 372 498 386Q463 400 428 386Z" fill="#f1e6dc"/><circle cx="462" cy="386" r="8" fill="#1b1210" stroke="none"/>
+<path d="M298 384Q337 366 376 384" fill="none"/><path d="M424 384Q463 366 502 384" fill="none"/>
+</g>
+<!-- nose -->
+<path d="M400 396Q394 452 368 482Q400 498 432 482Q406 452 400 396Z" fill="#5a3019" stroke="#2a160c" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="384" cy="484" rx="9" ry="5" fill="#2a160c"/><ellipse cx="416" cy="484" rx="9" ry="5" fill="#2a160c"/>
+<!-- mustache, lips, goatee -->
+<path d="M328 508Q364 486 400 498Q436 486 472 508Q440 526 400 516Q360 526 328 508Z" fill="#14100e"/>
+<path d="M362 532Q400 522 438 532Q400 548 362 532Z" fill="#a8604a" stroke="#2a160c" stroke-width="3"/>
+<path d="M366 534Q400 566 434 534Q400 546 366 534Z" fill="#d38a6f" stroke="#2a160c" stroke-width="3" stroke-linejoin="round"/>
+<path d="M352 566Q400 552 448 566Q444 606 400 612Q356 606 352 566Z" fill="#14100e"/>
+<!-- chin highlight -->
+<path d="M330 430Q326 330 300 330" stroke="none" fill="none"/>
+</svg>
